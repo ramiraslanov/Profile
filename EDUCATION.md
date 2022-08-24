@@ -1,4 +1,4 @@
 # Education
 
-- Kiev Polytechnic Institute
+- [MUBiNT](https://mubint.ru/)
 - Metarhia free educational program
