@@ -3,5 +3,4 @@
 <code>🧻 [Projects](PROJECTS.md)</code>
 <code>👀 [Open-source contribution](CONTRIBUTION.md)</code><br>
 <code>🧑‍💻 Languages: JavaScript</code>
-<code>🪙 [Rates](RATES.md)</code><br>
 <code>📫 [raslan.amiraslanov@gmail.com](mailto:raslan.amiraslanov@gmail.com)</code>
